@@ -214,6 +214,7 @@ nav {
 .wave{
   display: inline-block;
   animation: animate-wave 500ms infinite ease-in-out;
+  text-size: 14px;
 }
 
 @keyframes animate-wave{
