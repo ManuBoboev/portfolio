@@ -371,11 +371,10 @@ nav {
 
 footer{
   background-color: #242424;
-  padding-bottom: 24px;
 }
 .footer__logo--img{
-  width: 70px;
-  height: 70px;
+  width: 110px;
+  height: 90px;
 }
 
 .footer__row{
@@ -422,6 +421,9 @@ footer{
   nav{
     height: 68px;
   }
+  footer{
+    padding-bottom: 24px;
+    }
   h1{
     font-size: 28px;
   }
@@ -468,4 +470,7 @@ footer{
     left: 0;
     width: 100%;
   }
+  footer{
+    padding-bottom: 24px;
+    }
 }
